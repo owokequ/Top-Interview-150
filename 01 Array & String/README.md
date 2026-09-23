@@ -2,7 +2,7 @@
 
 Задач в модуле: **24**. Отмечай задачу после решения.
 
-- [ ] [Merge Sorted Array](MergeSortedArray.java) — [LeetCode #88](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [Merge Sorted Array](MergeSortedArray.java) — [LeetCode #88](https://leetcode.com/problems/merge-sorted-array/)
 - [ ] [Remove Element](RemoveElement.java) — [LeetCode #27](https://leetcode.com/problems/remove-element/)
 - [ ] [Remove Duplicates from Sorted Array](RemoveDuplicatesFromSortedArray.java) — [LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] [Remove Duplicates from Sorted Array II](RemoveDuplicatesFromSortedArrayII.java) — [LeetCode #80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
