@@ -1,0 +1,28 @@
+# 01. Array & String
+
+Задач в модуле: **24**. Отмечай задачу после решения.
+
+- [ ] [Merge Sorted Array](MergeSortedArray.java) — [LeetCode #88](https://leetcode.com/problems/merge-sorted-array/)
+- [ ] [Remove Element](RemoveElement.java) — [LeetCode #27](https://leetcode.com/problems/remove-element/)
+- [ ] [Remove Duplicates from Sorted Array](RemoveDuplicatesFromSortedArray.java) — [LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [ ] [Remove Duplicates from Sorted Array II](RemoveDuplicatesFromSortedArrayII.java) — [LeetCode #80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+- [ ] [Majority Element](MajorityElement.java) — [LeetCode #169](https://leetcode.com/problems/majority-element/)
+- [ ] [Rotate Array](RotateArray.java) — [LeetCode #189](https://leetcode.com/problems/rotate-array/)
+- [ ] [Best Time to Buy and Sell Stock](BestTimeToBuyAndSellStock.java) — [LeetCode #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] [Best Time to Buy and Sell Stock II](BestTimeToBuyAndSellStockII.java) — [LeetCode #122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [ ] [Jump Game](JumpGame.java) — [LeetCode #55](https://leetcode.com/problems/jump-game/)
+- [ ] [Jump Game II](JumpGameII.java) — [LeetCode #45](https://leetcode.com/problems/jump-game-ii/)
+- [ ] [H-Index](HIndex.java) — [LeetCode #274](https://leetcode.com/problems/h-index/)
+- [ ] [Insert Delete GetRandom O(1)](InsertDeleteGetRandom.java) — [LeetCode #380](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- [ ] [Product of Array Except Self](ProductOfArrayExceptSelf.java) — [LeetCode #238](https://leetcode.com/problems/product-of-array-except-self/)
+- [ ] [Gas Station](GasStation.java) — [LeetCode #134](https://leetcode.com/problems/gas-station/)
+- [ ] [Candy](Candy.java) — [LeetCode #135](https://leetcode.com/problems/candy/)
+- [ ] [Trapping Rain Water](TrappingRainWater.java) — [LeetCode #42](https://leetcode.com/problems/trapping-rain-water/)
+- [ ] [Roman to Integer](RomanToInteger.java) — [LeetCode #13](https://leetcode.com/problems/roman-to-integer/)
+- [ ] [Integer to Roman](IntegerToRoman.java) — [LeetCode #12](https://leetcode.com/problems/integer-to-roman/)
+- [ ] [Length of Last Word](LengthOfLastWord.java) — [LeetCode #58](https://leetcode.com/problems/length-of-last-word/)
+- [ ] [Longest Common Prefix](LongestCommonPrefix.java) — [LeetCode #14](https://leetcode.com/problems/longest-common-prefix/)
+- [ ] [Reverse Words in a String](ReverseWordsInAString.java) — [LeetCode #151](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [ ] [Zigzag Conversion](ZigzagConversion.java) — [LeetCode #6](https://leetcode.com/problems/zigzag-conversion/)
+- [ ] [Find the Index of the First Occurrence in a String](FindFirstOccurrenceInString.java) — [LeetCode #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+- [ ] [Text Justification](TextJustification.java) — [LeetCode #68](https://leetcode.com/problems/text-justification/)

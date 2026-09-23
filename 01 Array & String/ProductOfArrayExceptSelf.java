@@ -1,0 +1,8 @@
+/**
+ * LeetCode #238 — Product of Array Except Self
+ * https://leetcode.com/problems/product-of-array-except-self/
+ *
+ * TODO: Добавь сигнатуру метода с LeetCode и реализуй решение.
+ */
+public class ProductOfArrayExceptSelf {
+}
