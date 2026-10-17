@@ -1,12 +1,12 @@
 # 01. Array & String
 
-Задач в модуле: **24**. Отмечай задачу после решения.
+Задач в модуле: **24**. Решено: **5/24**. Отмечай задачу после решения.
 
 - [x] [Merge Sorted Array](MergeSortedArray.java) — [LeetCode #88](https://leetcode.com/problems/merge-sorted-array/)
-- [ ] [Remove Element](RemoveElement.java) — [LeetCode #27](https://leetcode.com/problems/remove-element/)
-- [ ] [Remove Duplicates from Sorted Array](RemoveDuplicatesFromSortedArray.java) — [LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [ ] [Remove Duplicates from Sorted Array II](RemoveDuplicatesFromSortedArrayII.java) — [LeetCode #80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
-- [ ] [Majority Element](MajorityElement.java) — [LeetCode #169](https://leetcode.com/problems/majority-element/)
+- [x] [Remove Element](RemoveElement.java) — [LeetCode #27](https://leetcode.com/problems/remove-element/)
+- [x] [Remove Duplicates from Sorted Array](RemoveDuplicatesFromSortedArray.java) — [LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [Remove Duplicates from Sorted Array II](RemoveDuplicatesFromSortedArrayII.java) — [LeetCode #80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+- [x] [Majority Element](MajorityElement.java) — [LeetCode #169](https://leetcode.com/problems/majority-element/)
 - [ ] [Rotate Array](RotateArray.java) — [LeetCode #189](https://leetcode.com/problems/rotate-array/)
 - [ ] [Best Time to Buy and Sell Stock](BestTimeToBuyAndSellStock.java) — [LeetCode #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Best Time to Buy and Sell Stock II](BestTimeToBuyAndSellStockII.java) — [LeetCode #122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
