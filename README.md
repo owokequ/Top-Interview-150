@@ -2,7 +2,7 @@
 
 Java-классы для задач LeetCode Top Interview 150, сгруппированные по модулям.
 
-Прогресс: **10/150 задач решено**.
+Прогресс: **13/150 задач решено**.
 
 Открой модуль, выбери задачу и решай в одноимённом Java-классе. В README модуля можно отмечать готовые задачи.
 
@@ -11,7 +11,7 @@ Java-классы для задач LeetCode Top Interview 150, сгруппир
 | 01 | [Array & String](01%20Array%20&%20String/README.md) | 24 | 5/24 |
 | 02 | [Two Pointers](02%20Two%20Pointers/README.md) | 5 | 3/5 |
 | 03 | [Sliding Window](03%20Sliding%20Window/README.md) | 4 | 2/4 |
-| 04 | [Matrix](04%20Matrix/README.md) | 5 | 0/5 |
+| 04 | [Matrix](04%20Matrix/README.md) | 5 | 3/5 |
 | 05 | [Hashmap](05%20Hashmap/README.md) | 9 | 0/9 |
 | 06 | [Intervals](06%20Intervals/README.md) | 4 | 0/4 |
 | 07 | [Stack](07%20Stack/README.md) | 5 | 0/5 |
